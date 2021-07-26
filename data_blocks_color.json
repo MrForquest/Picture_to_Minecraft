@@ -1,0 +1,7978 @@
+{
+  "acacia_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "447"
+  },
+  "acacia_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "acacia_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "430"
+  },
+  "acacia_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "192"
+  },
+  "acacia_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "187"
+  },
+  "acacia_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "161"
+  },
+  "acacia_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "162"
+  },
+  "acacia_planks": {
+    "color": [
+      168,
+      90,
+      50
+    ],
+    "id": "5 4"
+  },
+  "acacia_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "acacia_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6 4"
+  },
+  "acacia_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "acacia_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126 4"
+  },
+  "acacia_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "163"
+  },
+  "acacia_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "acacia_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "activator_rail": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "157"
+  },
+  "air": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "0"
+  },
+  "allium": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 2"
+  },
+  "ancient_debris": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "andesite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 5"
+  },
+  "andesite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "andesite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "andesite_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "anvil": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "145"
+  },
+  "apple": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "260"
+  },
+  "armor_stand": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "416"
+  },
+  "arrow": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "262"
+  },
+  "axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "azure_bluet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38"
+  },
+  "baked_potato": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "393 3"
+  },
+  "bamboo": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "barrel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "barrier": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "166"
+  },
+  "basalt": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bat_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "beacon": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "138"
+  },
+  "bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bedrock": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "7"
+  },
+  "bee_nest": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bee_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "beef": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "363"
+  },
+  "beehive": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "beetroot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "434"
+  },
+  "beetroot_seeds": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "435"
+  },
+  "beetroot_soup": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "436"
+  },
+  "bell": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "birch_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "445"
+  },
+  "birch_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "birch_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "428"
+  },
+  "birch_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "189"
+  },
+  "birch_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "184"
+  },
+  "birch_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "18"
+  },
+  "birch_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "17 2"
+  },
+  "birch_planks": {
+    "color": [
+      192,
+      175,
+      121
+    ],
+    "id": "5 2"
+  },
+  "birch_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "birch_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6 2"
+  },
+  "birch_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "birch_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126 2"
+  },
+  "birch_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "135"
+  },
+  "birch_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "birch_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "black_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425"
+  },
+  "black_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 15"
+  },
+  "black_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 15"
+  },
+  "black_concrete": {
+    "color": [
+      8,
+      10,
+      15
+    ],
+    "id": "251 15"
+  },
+  "black_concrete_powder": {
+    "color": [
+      25,
+      26,
+      31
+    ],
+    "id": "252 15"
+  },
+  "black_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "black_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "250"
+  },
+  "black_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "234"
+  },
+  "black_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 15"
+  },
+  "black_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 15"
+  },
+  "black_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 15"
+  },
+  "black_wool": {
+    "color": [
+      20,
+      21,
+      25
+    ],
+    "id": "35 15"
+  },
+  "blackstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blackstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blackstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blackstone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blast_furnace": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blaze_powder": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "377"
+  },
+  "blaze_rod": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "369"
+  },
+  "blaze_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "blue_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 4"
+  },
+  "blue_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 11"
+  },
+  "blue_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 11"
+  },
+  "blue_concrete": {
+    "color": [
+      44,
+      46,
+      143
+    ],
+    "id": "251 11"
+  },
+  "blue_concrete_powder": {
+    "color": [
+      70,
+      73,
+      166
+    ],
+    "id": "252 11"
+  },
+  "blue_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blue_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "246"
+  },
+  "blue_ice": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "blue_orchid": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 1"
+  },
+  "blue_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "230"
+  },
+  "blue_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 11"
+  },
+  "blue_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 11"
+  },
+  "blue_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 11"
+  },
+  "blue_wool": {
+    "color": [
+      53,
+      57,
+      157
+    ],
+    "id": "35 11"
+  },
+  "boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "352"
+  },
+  "bone_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "216"
+  },
+  "bone_meal": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 15"
+  },
+  "book": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "340"
+  },
+  "bookshelf": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "47"
+  },
+  "bow": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "261"
+  },
+  "bowl": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "281"
+  },
+  "brain_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "brain_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "brain_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bread": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "297"
+  },
+  "brewing_stand": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "379"
+  },
+  "brick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "336"
+  },
+  "brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 4"
+  },
+  "brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "108"
+  },
+  "brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "45"
+  },
+  "brown_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 3"
+  },
+  "brown_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 12"
+  },
+  "brown_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 12"
+  },
+  "brown_concrete": {
+    "color": [
+      96,
+      59,
+      31
+    ],
+    "id": "251 12"
+  },
+  "brown_concrete_powder": {
+    "color": [
+      125,
+      84,
+      53
+    ],
+    "id": "252 12"
+  },
+  "brown_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "brown_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "247"
+  },
+  "brown_mushroom": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "39"
+  },
+  "brown_mushroom_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "99"
+  },
+  "brown_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "231"
+  },
+  "brown_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "brown_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 12"
+  },
+  "brown_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 12"
+  },
+  "brown_wool": {
+    "color": [
+      114,
+      71,
+      40
+    ],
+    "id": "35 12"
+  },
+  "bubble_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bubble_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bubble_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "325"
+  },
+  "cactus": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "81"
+  },
+  "cake": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "354"
+  },
+  "campfire": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "carrot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "391"
+  },
+  "carrot_on_a_stick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "398"
+  },
+  "cartography_table": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "carved_pumpkin": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cat_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cauldron": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "380"
+  },
+  "cave_spider_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "chain": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "chain_command_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "211"
+  },
+  "chainmail_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "305"
+  },
+  "chainmail_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "303"
+  },
+  "chainmail_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "302"
+  },
+  "chainmail_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "304"
+  },
+  "charcoal": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "263 1"
+  },
+  "chest": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "54"
+  },
+  "chest_minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "342"
+  },
+  "chicken": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "365"
+  },
+  "chicken_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "chipped_anvil": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "145 1"
+  },
+  "chiseled_nether_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "chiseled_polished_blackstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "chiseled_quartz_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "155 1"
+  },
+  "chiseled_red_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "179 1"
+  },
+  "chiseled_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "24 1"
+  },
+  "chiseled_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "98 3"
+  },
+  "chorus_flower": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "200"
+  },
+  "chorus_fruit": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "432"
+  },
+  "chorus_plant": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "199"
+  },
+  "clay": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "82"
+  },
+  "clay_ball": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "337"
+  },
+  "clock": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "347"
+  },
+  "coal": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "263"
+  },
+  "coal_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "173"
+  },
+  "coal_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "16"
+  },
+  "coarse_dirt": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "3 1"
+  },
+  "cobblestone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "4"
+  },
+  "cobblestone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 3"
+  },
+  "cobblestone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "67"
+  },
+  "cobblestone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "139"
+  },
+  "cobweb": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "30"
+  },
+  "cocoa_beans": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 3"
+  },
+  "cod": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cod_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cod_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "command_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "137"
+  },
+  "command_block_minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "422"
+  },
+  "comparator": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "404"
+  },
+  "compass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "345"
+  },
+  "composter": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "conduit": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cooked_beef": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "364"
+  },
+  "cooked_chicken": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "366"
+  },
+  "cooked_cod": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cooked_mutton": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "424"
+  },
+  "cooked_porkchop": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "320"
+  },
+  "cooked_rabbit": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "412"
+  },
+  "cooked_salmon": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "350 1"
+  },
+  "cookie": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "357"
+  },
+  "cornflower": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cow_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "cracked_nether_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cracked_polished_blackstone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cracked_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "98 2"
+  },
+  "crafting_table": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "58"
+  },
+  "creeper_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "creeper_head": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397 4"
+  },
+  "creeper_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "crimson_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_fungus": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_hyphae": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_nylium": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_planks": {
+    "color": [
+      101,
+      48,
+      70
+    ],
+    "id": ""
+  },
+  "crimson_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_roots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_stem": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crimson_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crossbow": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "crying_obsidian": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cut_red_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cut_red_sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cut_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cut_sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "cyan_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 6"
+  },
+  "cyan_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 9"
+  },
+  "cyan_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 9"
+  },
+  "cyan_concrete": {
+    "color": [
+      21,
+      119,
+      136
+    ],
+    "id": "251 9"
+  },
+  "cyan_concrete_powder": {
+    "color": [
+      36,
+      147,
+      157
+    ],
+    "id": "252 9"
+  },
+  "cyan_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 6"
+  },
+  "cyan_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "244"
+  },
+  "cyan_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "228"
+  },
+  "cyan_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 9"
+  },
+  "cyan_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 9"
+  },
+  "cyan_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 9"
+  },
+  "cyan_wool": {
+    "color": [
+      21,
+      137,
+      145
+    ],
+    "id": "35 9"
+  },
+  "damaged_anvil": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "145 2"
+  },
+  "dandelion": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "37"
+  },
+  "dark_oak_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "448"
+  },
+  "dark_oak_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_oak_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "431"
+  },
+  "dark_oak_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "191"
+  },
+  "dark_oak_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "186"
+  },
+  "dark_oak_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "161 1"
+  },
+  "dark_oak_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "162 1"
+  },
+  "dark_oak_planks": {
+    "color": [
+      66,
+      43,
+      20
+    ],
+    "id": "5 5"
+  },
+  "dark_oak_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_oak_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6 5"
+  },
+  "dark_oak_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_oak_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126 5"
+  },
+  "dark_oak_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "164"
+  },
+  "dark_oak_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_oak_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_prismarine": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "168 2"
+  },
+  "dark_prismarine_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dark_prismarine_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "daylight_detector": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "151"
+  },
+  "dead_brain_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_brain_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_brain_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_bubble_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_bubble_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_bubble_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_bush": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "32"
+  },
+  "dead_fire_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_fire_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_fire_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_horn_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_horn_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_horn_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_tube_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_tube_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dead_tube_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "debug_stick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "detector_rail": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "28"
+  },
+  "diamond": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "264"
+  },
+  "diamond_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "279"
+  },
+  "diamond_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "57"
+  },
+  "diamond_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "313"
+  },
+  "diamond_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "311"
+  },
+  "diamond_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "310"
+  },
+  "diamond_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "293"
+  },
+  "diamond_horse_armor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "419"
+  },
+  "diamond_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "312"
+  },
+  "diamond_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "56"
+  },
+  "diamond_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "278"
+  },
+  "diamond_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "277"
+  },
+  "diamond_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "276"
+  },
+  "diorite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 3"
+  },
+  "diorite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "diorite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "diorite_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dirt": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "3"
+  },
+  "dispenser": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "23"
+  },
+  "dolphin_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "donkey_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "dragon_breath": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "437"
+  },
+  "dragon_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "122"
+  },
+  "dragon_head": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397 5"
+  },
+  "dried_kelp": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dried_kelp_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dropper": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "158"
+  },
+  "drowned_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "344"
+  },
+  "elder_guardian_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "elytra": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "443"
+  },
+  "emerald": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "388"
+  },
+  "emerald_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "133"
+  },
+  "emerald_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "129"
+  },
+  "enchanted_book": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "403"
+  },
+  "enchanted_golden_apple": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "322 1"
+  },
+  "enchanting_table": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "116"
+  },
+  "end_crystal": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "426"
+  },
+  "end_portal_frame": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "120"
+  },
+  "end_rod": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "198"
+  },
+  "end_stone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "121"
+  },
+  "end_stone_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "end_stone_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "end_stone_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "end_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "206"
+  },
+  "ender_chest": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "130"
+  },
+  "ender_eye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "381"
+  },
+  "ender_pearl": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "368"
+  },
+  "enderman_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "endermite_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "evoker_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "experience_bottle": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "384"
+  },
+  "farmland": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "60"
+  },
+  "feather": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "288"
+  },
+  "fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "fermented_spider_eye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "376"
+  },
+  "fern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "31 2"
+  },
+  "fire_charge": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "385"
+  },
+  "fire_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "fire_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "fire_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "firework_rocket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "401"
+  },
+  "firework_star": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "402"
+  },
+  "fishing_rod": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "346"
+  },
+  "fletching_table": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "flint": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "318"
+  },
+  "flint_and_steel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "259"
+  },
+  "flower_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "flower_pot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "390"
+  },
+  "fox_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "furnace": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "61"
+  },
+  "furnace_minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "343"
+  },
+  "ghast_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "ghast_tear": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "370"
+  },
+  "gilded_blackstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "20"
+  },
+  "glass_bottle": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "374"
+  },
+  "glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "102"
+  },
+  "glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "glistering_melon_slice": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "382"
+  },
+  "globe_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "glowstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "89"
+  },
+  "glowstone_dust": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "348"
+  },
+  "gold_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "41"
+  },
+  "gold_ingot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "266"
+  },
+  "gold_nugget": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "371"
+  },
+  "gold_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "14"
+  },
+  "golden_apple": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "322"
+  },
+  "golden_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "286"
+  },
+  "golden_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "317"
+  },
+  "golden_carrot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "396"
+  },
+  "golden_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "315"
+  },
+  "golden_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "314"
+  },
+  "golden_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "294"
+  },
+  "golden_horse_armor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "418"
+  },
+  "golden_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "316"
+  },
+  "golden_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "285"
+  },
+  "golden_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "284"
+  },
+  "golden_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "283"
+  },
+  "granite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 1"
+  },
+  "granite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "granite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "granite_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "grass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "31 1"
+  },
+  "grass_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2"
+  },
+  "grass_path": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "208"
+  },
+  "gravel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "13"
+  },
+  "gray_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 8"
+  },
+  "gray_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 7"
+  },
+  "gray_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 7"
+  },
+  "gray_concrete": {
+    "color": [
+      54,
+      57,
+      61
+    ],
+    "id": "251 7"
+  },
+  "gray_concrete_powder": {
+    "color": [
+      76,
+      81,
+      84
+    ],
+    "id": "252 7"
+  },
+  "gray_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 8"
+  },
+  "gray_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "242"
+  },
+  "gray_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "226"
+  },
+  "gray_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 7"
+  },
+  "gray_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 7"
+  },
+  "gray_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 7"
+  },
+  "gray_wool": {
+    "color": [
+      62,
+      68,
+      71
+    ],
+    "id": "35 7"
+  },
+  "green_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 2"
+  },
+  "green_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 13"
+  },
+  "green_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 13"
+  },
+  "green_concrete": {
+    "color": [
+      73,
+      91,
+      36
+    ],
+    "id": "251 13"
+  },
+  "green_concrete_powder": {
+    "color": [
+      97,
+      119,
+      44
+    ],
+    "id": "252 13"
+  },
+  "green_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 2"
+  },
+  "green_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "248"
+  },
+  "green_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "232"
+  },
+  "green_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 13"
+  },
+  "green_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 13"
+  },
+  "green_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 13"
+  },
+  "green_wool": {
+    "color": [
+      84,
+      109,
+      27
+    ],
+    "id": "35 13"
+  },
+  "grindstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "guardian_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "gunpowder": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "289"
+  },
+  "hay_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "170"
+  },
+  "heart_of_the_sea": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "heavy_weighted_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "148"
+  },
+  "hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "hoglin_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "honey_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "honey_bottle": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "honeycomb": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "honeycomb_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "hopper": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "154"
+  },
+  "hopper_minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "408"
+  },
+  "horn_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "horn_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "horn_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "horse_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "husk_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "ice": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "79"
+  },
+  "infested_chiseled_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97 5"
+  },
+  "infested_cobblestone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97 1"
+  },
+  "infested_cracked_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97 4"
+  },
+  "infested_mossy_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97 3"
+  },
+  "infested_stone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97"
+  },
+  "infested_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "97 2"
+  },
+  "ink_sac": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351"
+  },
+  "iron_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "258"
+  },
+  "iron_bars": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "101"
+  },
+  "iron_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "42"
+  },
+  "iron_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "309"
+  },
+  "iron_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "307"
+  },
+  "iron_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "330"
+  },
+  "iron_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "306"
+  },
+  "iron_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "292"
+  },
+  "iron_horse_armor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "417"
+  },
+  "iron_ingot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "265"
+  },
+  "iron_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "308"
+  },
+  "iron_nugget": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "452"
+  },
+  "iron_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "15"
+  },
+  "iron_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "257"
+  },
+  "iron_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "256"
+  },
+  "iron_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "267"
+  },
+  "iron_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "167"
+  },
+  "item_frame": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "389"
+  },
+  "jack_o_lantern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "91"
+  },
+  "jukebox": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "84"
+  },
+  "jungle_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "446"
+  },
+  "jungle_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "jungle_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "429"
+  },
+  "jungle_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "190"
+  },
+  "jungle_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "185"
+  },
+  "jungle_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "18 3"
+  },
+  "jungle_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "17 3"
+  },
+  "jungle_planks": {
+    "color": [
+      160,
+      115,
+      80
+    ],
+    "id": ""
+  },
+  "jungle_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "jungle_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6 3"
+  },
+  "jungle_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "jungle_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126 3"
+  },
+  "jungle_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "136"
+  },
+  "jungle_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "jungle_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "5 3"
+  },
+  "kelp": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "ladder": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "65"
+  },
+  "lantern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "lapis_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "22"
+  },
+  "lapis_lazuli": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 4"
+  },
+  "lapis_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "21"
+  },
+  "large_fern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175 3"
+  },
+  "lava_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "327"
+  },
+  "lead": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "420"
+  },
+  "leather": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "334"
+  },
+  "leather_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "301"
+  },
+  "leather_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "299"
+  },
+  "leather_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "298"
+  },
+  "leather_horse_armor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "leather_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "300"
+  },
+  "lectern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "lever": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "69"
+  },
+  "light_blue_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 12"
+  },
+  "light_blue_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 3"
+  },
+  "light_blue_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 3"
+  },
+  "light_blue_concrete": {
+    "color": [
+      35,
+      137,
+      198
+    ],
+    "id": "251 3"
+  },
+  "light_blue_concrete_powder": {
+    "color": [
+      74,
+      180,
+      213
+    ],
+    "id": "252 3"
+  },
+  "light_blue_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 12"
+  },
+  "light_blue_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "238"
+  },
+  "light_blue_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "222"
+  },
+  "light_blue_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 3"
+  },
+  "light_blue_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 3"
+  },
+  "light_blue_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 3"
+  },
+  "light_blue_wool": {
+    "color": [
+      58,
+      175,
+      217
+    ],
+    "id": "35 3"
+  },
+  "light_gray_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 7"
+  },
+  "light_gray_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 8"
+  },
+  "light_gray_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 8"
+  },
+  "light_gray_concrete": {
+    "color": [
+      125,
+      125,
+      115
+    ],
+    "id": "251 8"
+  },
+  "light_gray_concrete_powder": {
+    "color": [
+      154,
+      154,
+      148
+    ],
+    "id": "252 8"
+  },
+  "light_gray_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 7"
+  },
+  "light_gray_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "243"
+  },
+  "light_gray_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "227"
+  },
+  "light_gray_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 8"
+  },
+  "light_gray_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 8"
+  },
+  "light_gray_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 8"
+  },
+  "light_gray_wool": {
+    "color": [
+      142,
+      142,
+      134
+    ],
+    "id": "35 8"
+  },
+  "light_weighted_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "147"
+  },
+  "lilac": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175 1"
+  },
+  "lily_of_the_valley": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "lily_pad": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "111"
+  },
+  "lime_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 10"
+  },
+  "lime_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 5"
+  },
+  "lime_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 5"
+  },
+  "lime_concrete": {
+    "color": [
+      94,
+      168,
+      24
+    ],
+    "id": "251 5"
+  },
+  "lime_concrete_powder": {
+    "color": [
+      125,
+      189,
+      41
+    ],
+    "id": "252 5"
+  },
+  "lime_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 10"
+  },
+  "lime_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "240"
+  },
+  "lime_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "224"
+  },
+  "lime_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 5"
+  },
+  "lime_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 5"
+  },
+  "lime_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 5"
+  },
+  "lime_wool": {
+    "color": [
+      112,
+      185,
+      25
+    ],
+    "id": "35 5"
+  },
+  "llama_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "lodestone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "loom": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "magenta_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 13"
+  },
+  "magenta_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 2"
+  },
+  "magenta_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 2"
+  },
+  "magenta_concrete": {
+    "color": [
+      169,
+      48,
+      159
+    ],
+    "id": "251 2"
+  },
+  "magenta_concrete_powder": {
+    "color": [
+      192,
+      83,
+      184
+    ],
+    "id": "252 2"
+  },
+  "magenta_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 13"
+  },
+  "magenta_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "237"
+  },
+  "magenta_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "221"
+  },
+  "magenta_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 2"
+  },
+  "magenta_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 2"
+  },
+  "magenta_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 2"
+  },
+  "magenta_wool": {
+    "color": [
+      189,
+      68,
+      179
+    ],
+    "id": "35 2"
+  },
+  "magma_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "213"
+  },
+  "magma_cream": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "378"
+  },
+  "magma_cube_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "map": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "395"
+  },
+  "melon": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "103"
+  },
+  "melon_seeds": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "362"
+  },
+  "melon_slice": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "360"
+  },
+  "milk_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "335"
+  },
+  "minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "328"
+  },
+  "mojang_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mooshroom_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_cobblestone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "48"
+  },
+  "mossy_cobblestone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_cobblestone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_cobblestone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "139 1"
+  },
+  "mossy_stone_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_stone_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_stone_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "mossy_stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "98 1"
+  },
+  "mule_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "mushroom_stem": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "282"
+  },
+  "mushroom_stew": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "music_disc_11": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2266"
+  },
+  "music_disc_13": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2256"
+  },
+  "music_disc_blocks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2258"
+  },
+  "music_disc_cat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2257"
+  },
+  "music_disc_chirp": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2259"
+  },
+  "music_disc_far": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2260"
+  },
+  "music_disc_mall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2261"
+  },
+  "music_disc_mellohi": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2262"
+  },
+  "music_disc_pigstep": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "music_disc_stal": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2263"
+  },
+  "music_disc_strad": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2264"
+  },
+  "music_disc_wait": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2267"
+  },
+  "music_disc_ward": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "2265"
+  },
+  "mutton": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "423"
+  },
+  "mycelium": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "110"
+  },
+  "name_tag": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "421"
+  },
+  "nautilus_shell": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "nether_brick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "405"
+  },
+  "nether_brick_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "113"
+  },
+  "nether_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 6"
+  },
+  "nether_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "114"
+  },
+  "nether_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "nether_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "112"
+  },
+  "nether_gold_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "nether_quartz_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "153"
+  },
+  "nether_sprouts": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "nether_star": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "399"
+  },
+  "nether_wart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "372"
+  },
+  "nether_wart_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "214"
+  },
+  "netherite_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_boots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_chestplate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_ingot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_leggings": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_scrap": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherite_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "netherrack": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "87"
+  },
+  "note_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "25"
+  },
+  "oak_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "333"
+  },
+  "oak_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "143"
+  },
+  "oak_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "324"
+  },
+  "oak_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "85"
+  },
+  "oak_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "107"
+  },
+  "oak_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "18"
+  },
+  "oak_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "17"
+  },
+  "oak_planks": {
+    "color": [
+      162,
+      130,
+      78
+    ],
+    "id": ""
+  },
+  "oak_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "72"
+  },
+  "oak_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6"
+  },
+  "oak_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "323"
+  },
+  "oak_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126"
+  },
+  "oak_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "53"
+  },
+  "oak_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "96"
+  },
+  "oak_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "5"
+  },
+  "observer": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "218"
+  },
+  "obsidian": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "49"
+  },
+  "ocelot_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "orange_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 14"
+  },
+  "orange_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 1"
+  },
+  "orange_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 1"
+  },
+  "orange_concrete": {
+    "color": [
+      224,
+      97,
+      0
+    ],
+    "id": "251 1"
+  },
+  "orange_concrete_powder": {
+    "color": [
+      227,
+      131,
+      31
+    ],
+    "id": "252 1"
+  },
+  "orange_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 14"
+  },
+  "orange_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "236"
+  },
+  "orange_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "220"
+  },
+  "orange_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 1"
+  },
+  "orange_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 1"
+  },
+  "orange_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 1"
+  },
+  "orange_tulip": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 5"
+  },
+  "orange_wool": {
+    "color": [
+      240,
+      118,
+      19
+    ],
+    "id": "35 1"
+  },
+  "oxeye_daisy": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 8"
+  },
+  "packed_ice": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "174"
+  },
+  "painting": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "321"
+  },
+  "panda_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "paper": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "339"
+  },
+  "parrot_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "peony": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175 5"
+  },
+  "petrified_oak_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "phantom_membrane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "phantom_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pig_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "piglin_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "piglin_brute_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "piglin_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pillager_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pink_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 9"
+  },
+  "pink_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 6"
+  },
+  "pink_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 6"
+  },
+  "pink_concrete": {
+    "color": [
+      213,
+      101,
+      142
+    ],
+    "id": "251 6"
+  },
+  "pink_concrete_powder": {
+    "color": [
+      228,
+      153,
+      181
+    ],
+    "id": "252 6"
+  },
+  "pink_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 9"
+  },
+  "pink_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "241"
+  },
+  "pink_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "225"
+  },
+  "pink_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 6"
+  },
+  "pink_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 6"
+  },
+  "pink_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 6"
+  },
+  "pink_tulip": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 7"
+  },
+  "pink_wool": {
+    "color": [
+      237,
+      141,
+      172
+    ],
+    "id": "35 6"
+  },
+  "piston": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "33"
+  },
+  "plank": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "player_head": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397 3"
+  },
+  "podzol": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "3 2"
+  },
+  "poisonous_potato": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "394"
+  },
+  "polar_bear_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "polished_andesite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 6"
+  },
+  "polished_andesite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": " 4"
+  },
+  "polished_andesite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": " 2"
+  },
+  "polished_basalt": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_blackstone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_diorite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 4"
+  },
+  "polished_diorite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_diorite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_granite": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1 2"
+  },
+  "polished_granite_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "polished_granite_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "popped_chorus_fruit": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "433"
+  },
+  "poppy": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38"
+  },
+  "porkchop": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "319"
+  },
+  "potato": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "392"
+  },
+  "potion{Potion:water}": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "powered_rail": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "27"
+  },
+  "prismarine": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "168"
+  },
+  "prismarine_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "prismarine_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "prismarine_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "168 1"
+  },
+  "prismarine_crystals": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "410"
+  },
+  "prismarine_shard": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "409"
+  },
+  "prismarine_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "prismarine_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "prismarine_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pufferfish": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "349 3"
+  },
+  "pufferfish_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pufferfish_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "pumpkin": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "86"
+  },
+  "pumpkin_pie": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "400"
+  },
+  "pumpkin_seeds": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "361"
+  },
+  "purple_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 5"
+  },
+  "purple_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 10"
+  },
+  "purple_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 10"
+  },
+  "purple_concrete": {
+    "color": [
+      100,
+      31,
+      156
+    ],
+    "id": "251 10"
+  },
+  "purple_concrete_powder": {
+    "color": [
+      131,
+      55,
+      177
+    ],
+    "id": "252 10"
+  },
+  "purple_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 5"
+  },
+  "purple_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "245"
+  },
+  "purple_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "229"
+  },
+  "purple_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 10"
+  },
+  "purple_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 10"
+  },
+  "purple_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 10"
+  },
+  "purple_wool": {
+    "color": [
+      121,
+      42,
+      172
+    ],
+    "id": "35 10"
+  },
+  "purpur_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "201"
+  },
+  "purpur_pillar": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "202"
+  },
+  "purpur_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "205"
+  },
+  "purpur_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "203"
+  },
+  "quartz": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "406"
+  },
+  "quartz_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "quartz_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "quartz_pillar": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "155 2"
+  },
+  "quartz_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 7"
+  },
+  "quartz_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "156"
+  },
+  "rabbit": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "411"
+  },
+  "rabbit_foot": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "414"
+  },
+  "rabbit_hide": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "415"
+  },
+  "rabbit_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "rabbit_stew": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "413"
+  },
+  "rail": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "66"
+  },
+  "ravager_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "red_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 1"
+  },
+  "red_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 14"
+  },
+  "red_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 14"
+  },
+  "red_concrete": {
+    "color": [
+      142,
+      32,
+      32
+    ],
+    "id": "251 14"
+  },
+  "red_concrete_powder": {
+    "color": [
+      168,
+      54,
+      50
+    ],
+    "id": "252 14"
+  },
+  "red_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 1"
+  },
+  "red_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "249"
+  },
+  "red_mushroom": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "40"
+  },
+  "red_mushroom_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "100"
+  },
+  "red_nether_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "red_nether_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "red_nether_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "red_nether_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "215"
+  },
+  "red_sand": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "12 1"
+  },
+  "red_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "179"
+  },
+  "red_sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "182"
+  },
+  "red_sandstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "180"
+  },
+  "red_sandstone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "red_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "233"
+  },
+  "red_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 14"
+  },
+  "red_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 14"
+  },
+  "red_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 14"
+  },
+  "red_tulip": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 4"
+  },
+  "red_wool": {
+    "color": [
+      160,
+      39,
+      34
+    ],
+    "id": "35 14"
+  },
+  "redstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "331"
+  },
+  "redstone_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "redstone_lamp": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "123"
+  },
+  "redstone_ore": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "73"
+  },
+  "redstone_torch": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "76"
+  },
+  "repeater": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "356"
+  },
+  "repeating_command_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "210"
+  },
+  "respawn_anchor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "rose_bush": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175 4"
+  },
+  "rotten_flesh": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "367"
+  },
+  "saddle": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "329"
+  },
+  "salmon": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "salmon_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "salmon_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "sand": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "12"
+  },
+  "sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "24"
+  },
+  "sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 1"
+  },
+  "sandstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "128"
+  },
+  "sandstone_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "scaffolding": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "scute": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "sea_lantern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "169"
+  },
+  "sea_pickle": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "seagrass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "359"
+  },
+  "shears": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "sheep_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "442"
+  },
+  "shield": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "shroomlight": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "shulker_shell": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "450"
+  },
+  "shulker_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "silverfish_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "skeleton_horse_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "skeleton_skull": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397"
+  },
+  "skeleton_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "skull_banner_pattern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "slime_ball": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "341"
+  },
+  "slime_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "165"
+  },
+  "slime_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "smithing_table": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smoker": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_quartz": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_quartz_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_quartz_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_red_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "179 2"
+  },
+  "smooth_red_sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_red_sandstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_sandstone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "24 2"
+  },
+  "smooth_sandstone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_sandstone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_stone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "smooth_stone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "snow": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "78"
+  },
+  "snow_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "80"
+  },
+  "snowball": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "332"
+  },
+  "soul_campfire": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "soul_lantern": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "soul_sand": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "88"
+  },
+  "soul_soil": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "soul_torch": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "spawner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "52"
+  },
+  "spider_eye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "375"
+  },
+  "spider_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "sponge": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "19"
+  },
+  "spruce_boat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "444"
+  },
+  "spruce_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "spruce_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "427"
+  },
+  "spruce_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "188"
+  },
+  "spruce_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "183"
+  },
+  "spruce_leaves": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "18 1"
+  },
+  "spruce_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "17 1"
+  },
+  "spruce_planks": {
+    "color": [
+      114,
+      84,
+      48
+    ],
+    "id": "5 1"
+  },
+  "spruce_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "spruce_sapling": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "6 1"
+  },
+  "spruce_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "spruce_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "126 1"
+  },
+  "spruce_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "134"
+  },
+  "spruce_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "spruce_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "squid_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "stained_concrete": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stained_concrete_powder": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stained_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "280"
+  },
+  "sticky_piston": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "29"
+  },
+  "stone": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "1"
+  },
+  "stone_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "275"
+  },
+  "stone_brick_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44 5"
+  },
+  "stone_brick_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "109"
+  },
+  "stone_brick_wall": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stone_bricks": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "98"
+  },
+  "stone_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "77"
+  },
+  "stone_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "291"
+  },
+  "stone_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "274"
+  },
+  "stone_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "70"
+  },
+  "stone_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "273"
+  },
+  "stone_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "44"
+  },
+  "stone_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stone_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "272"
+  },
+  "stonecutter": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stray_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "strider_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "string": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "287"
+  },
+  "stripped_acacia_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_acacia_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_birch_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_birch_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_crimson_hyphae": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_crimson_stem": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_dark_oak_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_dark_oak_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_jungle_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_jungle_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_oak_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_oak_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_spruce_log": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_spruce_wood": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_warped_hyphae": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "stripped_warped_stem": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "structure_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "255"
+  },
+  "structure_void": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "217"
+  },
+  "sugar": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "353"
+  },
+  "sugar_cane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "338"
+  },
+  "sunflower": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175"
+  },
+  "suspicious_stew": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "sweet_berries": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tall_grass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "175 2"
+  },
+  "target": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tnt": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "46"
+  },
+  "tnt_minecart": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "407"
+  },
+  "tools_material": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "torch": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "50"
+  },
+  "totem_of_undying": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "449"
+  },
+  "trader_llama_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "trapped_chest": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "146"
+  },
+  "trident": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tripwire_hook": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "131"
+  },
+  "tropical_fish": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "349 2"
+  },
+  "tropical_fish_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tropical_fish_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tube_coral": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tube_coral_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "tube_coral_fan": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "turtle_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "turtle_helmet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "turtle_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "twisting_vines": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "vex_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "villager_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "vindicator_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "vine": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "106"
+  },
+  "wandering_trader_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_button": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_fence": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_fence_gate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_fungus": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_fungus_on_a_stick": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_hyphae": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_nylium": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_planks": {
+    "color": [
+      43,
+      104,
+      99
+    ],
+    "id": ""
+  },
+  "warped_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_roots": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_sign": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_stem": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "warped_wart_block": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "water_bucket": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "326"
+  },
+  "waxed_oxidized_cut_copper": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "weeping_vines": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wet_sponge": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "19 1"
+  },
+  "wheat": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "296"
+  },
+  "wheat_seeds": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "295"
+  },
+  "white_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 15"
+  },
+  "white_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355"
+  },
+  "white_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171"
+  },
+  "white_concrete": {
+    "color": [
+      207,
+      213,
+      214
+    ],
+    "id": "251"
+  },
+  "white_concrete_powder": {
+    "color": [
+      225,
+      227,
+      227
+    ],
+    "id": "252"
+  },
+  "white_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "white_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "235"
+  },
+  "white_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "219"
+  },
+  "white_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95"
+  },
+  "white_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160"
+  },
+  "white_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159"
+  },
+  "white_tulip": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "38 6"
+  },
+  "white_wool": {
+    "color": [
+      233,
+      236,
+      236
+    ],
+    "id": "35"
+  },
+  "witch_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "wither_rose": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wither_skeleton_skull": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397 1"
+  },
+  "wither_skeleton_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "wolf_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "wooden_axe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "271"
+  },
+  "wooden_door": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wooden_hoe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "290"
+  },
+  "wooden_pickaxe": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "270"
+  },
+  "wooden_pressure_plate": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wooden_shovel": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "269"
+  },
+  "wooden_slab": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wooden_stairs": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wooden_sword": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "268"
+  },
+  "wooden_trapdoor": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "wool": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "writable_book": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "386"
+  },
+  "yellow_banner": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "425 11"
+  },
+  "yellow_bed": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "355 4"
+  },
+  "yellow_carpet": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "171 4"
+  },
+  "yellow_concrete": {
+    "color": [
+      240,
+      175,
+      21
+    ],
+    "id": "251 4"
+  },
+  "yellow_concrete_powder": {
+    "color": [
+      232,
+      199,
+      54
+    ],
+    "id": "252 4"
+  },
+  "yellow_dye": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "351 11"
+  },
+  "yellow_glazed_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "239"
+  },
+  "yellow_shulker_box": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "223"
+  },
+  "yellow_stained_glass": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "95 4"
+  },
+  "yellow_stained_glass_pane": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "160 4"
+  },
+  "yellow_terracotta": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "159 4"
+  },
+  "yellow_wool": {
+    "color": [
+      248,
+      197,
+      39
+    ],
+    "id": "35 4"
+  },
+  "zoglin_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  },
+  "zombie_head": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "397 2"
+  },
+  "zombie_horse_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "zombie_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "zombie_villager_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": "383"
+  },
+  "zombified_piglin_spawn_egg": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "id": ""
+  }
+}

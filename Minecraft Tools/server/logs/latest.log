@@ -1,0 +1,243 @@
+[11:37:52] [main/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]; Not a registry ops
+[11:37:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[11:37:53] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:37:55] [Worker-Main-6/INFO]: Loaded 7 recipes
+[11:37:57] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[11:37:57] [Server thread/INFO]: Loading properties
+[11:37:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2740d5a-890130b (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[11:37:59] [Server thread/INFO]: Debug logging is disabled
+[11:37:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:37:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:37:59] [Server thread/INFO]: Default game type: CREATIVE
+[11:37:59] [Server thread/INFO]: Generating keypair
+[11:38:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:38:00] [Server thread/INFO]: Using default channel type
+[11:38:03] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:38:07] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[11:38:07] [Server thread/WARN]: Legacy plugin RaspberryJuice v1.12.1 does not specify an api-version.
+[11:38:07] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[11:38:07] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[11:38:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:38:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:38:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:38:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:38:07] [Server thread/INFO]: Preparing level "world"
+[11:38:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:08] [Server thread/INFO]: View Distance: 10
+[11:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:38:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[11:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:08] [Server thread/INFO]: View Distance: 10
+[11:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:38:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[11:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:08] [Server thread/INFO]: View Distance: 10
+[11:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:38:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[11:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:38:09] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:09] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:09] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:38:11] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[11:38:12] [Server thread/INFO]: Preparing spawn area: 88%
+[11:38:12] [Server thread/INFO]: Preparing spawn area: 89%
+[11:38:13] [Server thread/INFO]: Preparing spawn area: 90%
+[11:38:13] [Server thread/INFO]: Preparing spawn area: 99%
+[11:38:13] [Server thread/INFO]: Time elapsed: 5050 ms
+[11:38:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:16] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:16] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:17] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:38:17] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:18] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:18] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:19] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:19] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:20] [Worker-Main-9/INFO]: Preparing spawn area: 85%
+[11:38:20] [Server thread/INFO]: Preparing spawn area: 88%
+[11:38:21] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[11:38:21] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[11:38:22] [Server thread/INFO]: Time elapsed: 8410 ms
+[11:38:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:38:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:23] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:24] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:24] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:24] [Server thread/INFO]: Time elapsed: 2794 ms
+[11:38:24] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[11:38:24] [Server thread/INFO]: [SetSpawn] Enabled!
+[11:38:24] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[11:38:24] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[11:38:24] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[11:38:24] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[11:38:24] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[11:38:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:38:25] [Server thread/INFO]: Done (17.049s)! For help, type "help"
+[11:38:30] [User Authenticator #1/INFO]: UUID of player Forquest is f716d06e-633e-361c-a494-95cb0a50e6e3
+[11:38:32] [Server thread/INFO]: Welcome Forquest[m
+[11:38:32] [Server thread/INFO]: Forquest[/127.0.0.1:61580] logged in with entity id 107 at ([world]-70.69979519941293, 15.93292491330835, -765.4475943448529)
+[11:39:53] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61587.
+[11:39:53] [Thread-14/INFO]: [RaspberryJuice] Starting input thread
+[11:39:53] [Thread-15/INFO]: [RaspberryJuice] Starting output thread!
+[11:39:59] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1979 to next tick
+[11:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
+[11:40:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61587.
+[11:42:07] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61304.
+[11:42:07] [Thread-21/INFO]: [RaspberryJuice] Starting output thread!
+[11:42:07] [Thread-20/INFO]: [RaspberryJuice] Starting input thread
+[11:42:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61304.
+[11:43:10] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61306.
+[11:43:10] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[11:43:10] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[11:43:12] [Thread-23/INFO]: [RaspberryJuice] Connection reset
+[11:43:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61306.
+[11:43:16] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61307.
+[11:43:16] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[11:43:16] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[11:43:19] [Thread-25/INFO]: [RaspberryJuice] Connection reset
+[11:43:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61307.
+[11:43:25] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61929.
+[11:43:25] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[11:43:25] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[11:43:29] [Thread-27/INFO]: [RaspberryJuice] Connection reset
+[11:43:29] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61929.
+[11:43:44] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61930.
+[11:43:44] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[11:43:44] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[11:43:49] [Thread-30/INFO]: [RaspberryJuice] Connection reset
+[11:43:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61930.
+[11:43:54] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61931.
+[11:43:54] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[11:43:54] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[11:44:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61931.
+[11:45:25] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61941.
+[11:45:25] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[11:45:25] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[11:45:40] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61941.
+[11:46:22] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61943.
+[11:46:22] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[11:46:22] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[11:46:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61943.
+[11:48:27] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64966.
+[11:48:27] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[11:48:27] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[11:48:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64966.
+[11:53:17] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57452.
+[11:53:17] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[11:53:17] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[11:53:25] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57452.
+[12:03:45] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50238.
+[12:03:45] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[12:03:45] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[12:04:23] [Thread-61/INFO]: [RaspberryJuice] Connection reset
+[12:04:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50238.
+[12:04:29] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54989.
+[12:04:29] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[12:04:29] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[12:04:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54989.
+[12:04:41] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54991.
+[12:04:41] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[12:04:41] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[12:04:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54991.
+[12:04:57] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54996.
+[12:04:57] [Thread-67/INFO]: [RaspberryJuice] Starting input thread
+[12:04:57] [Thread-68/INFO]: [RaspberryJuice] Starting output thread!
+[12:05:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54996.
+[12:09:46] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60621.
+[12:09:46] [Thread-74/INFO]: [RaspberryJuice] Starting input thread
+[12:09:46] [Thread-75/INFO]: [RaspberryJuice] Starting output thread!
+[12:10:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60621.
