@@ -4,9 +4,9 @@ from PIL import Image, ImageCms
 from fast_calc import fast_calc
 import json
 
-scale = 0.4
+scale = 0.4  # scale of the picture when transferring
 
-img = Image.open("example/uraraka.jpg")
+img = Image.open("example/uraraka.jpg")  # the picture that will be moved to minecraft
 size = img.size
 
 img = img.resize((round(size[0] * scale), round(size[1] * scale)), Image.NEAREST)
@@ -21,8 +21,13 @@ lab2rgb = ImageCms.buildTransformFromOpenProfiles(lab_p, srgb_p, "LAB", "RGB")
 
 time.sleep(2)
 
-necess_blocks = ["planks", "terracota", "concrete", "wool", "_block"]
-not_in_name = ["structure"]
+necess_blocks = ["planks", "terracota", "concrete", "wool", "lapis_block", "gold_block",
+                 "iron_block", "purpur_block", "diamond_block",
+                 "emerald_block", "quartz_block",
+                 "coal_block"]  # blocks that will be used to build the pixelart
+not_in_name = ["structure", "bone", "command", "grass_block", "mushroom",
+               "hay_block", "magma"]  # exclusion blocks
+
 with open('data_blocks_color_v2.json', "r") as data_file:
     data_loaded = json.load(data_file)
 active_blocks = dict()
@@ -32,11 +37,14 @@ for name in data_loaded.keys():
             break
     else:
         continue
+    no_blcok = False
     for pattern in not_in_name:
-        if pattern not in name:
+        if pattern in name:
+            no_blcok = True
             break
-    else:
+    if no_blcok:
         continue
+
     if data_loaded[name]["id"] != "":
         temp_img = Image.new("RGB", (1, 1), tuple(data_loaded[name]["color"]))
         color_temp = ImageCms.applyTransform(temp_img, rgb2lab).load()[0, 0]
@@ -66,57 +74,59 @@ def nearest_palette_color(color_pix):
             name_block = nid
             min_dist = dist
 
-    return active_blocks[name_block]
+    return name_block, active_blocks[name_block]
 
 
 res_img = img.copy()
 res_img_pixels = res_img.load()
 
-shifts_FS = [16, ((0, 1), 7), ((1, -1), 3), ((1, 0), 5), ((1, 1), 1)]
-shifts_JJN = [48, ((0, 1), 7), ((0, 2), 5), ((1, -2), 3), ((1, -1), 5), ((1, 0), 7), ((1, 1), 5),
+dither_FS = [16, ((0, 1), 7), ((1, -1), 3), ((1, 0), 5), ((1, 1), 1)]
+dither_JJN = [48, ((0, 1), 7), ((0, 2), 5), ((1, -2), 3), ((1, -1), 5), ((1, 0), 7), ((1, 1), 5),
               ((1, 2), 3), ((2, -2), 1), ((2, -1), 3), ((2, 0), 5), ((2, 1), 3), ((2, 2), 1)]
-shifts_Stucki = [42, ((0, 1), 8), ((0, 2), 4), ((1, -2), 2), ((1, -1), 4), ((1, 0), 8), ((1, 1), 4),
+dither_Stucki = [42, ((0, 1), 8), ((0, 2), 4), ((1, -2), 2), ((1, -1), 4), ((1, 0), 8), ((1, 1), 4),
                  ((1, 2), 2), ((2, -2), 1), ((2, -1), 2), ((2, 0), 4), ((2, 1), 2), ((2, 2), 1)]
-shifts_Burkes = [32, ((0, 1), 8), ((0, 2), 4), ((1, -2), 2), ((1, -1), 4), ((1, 0), 8), ((1, 1), 4),
+dither_Burkes = [32, ((0, 1), 8), ((0, 2), 4), ((1, -2), 2), ((1, -1), 4), ((1, 0), 8), ((1, 1), 4),
                  ((1, 2), 2)]
-shifts_Atkinson = [8, ((0, 1), 1), ((1, -1), 1), ((1, 0), 1), ((1, 1), 1), ((0, 2), 1), ((2, 0), 1)]
-shifts_Sierra = [32, ((0, 1), 5), ((0, 2), 3), ((1, -2), 2), ((1, -1), 4), ((1, 0), 5), ((1, 1), 4),
+dither_Atkinson = [8, ((0, 1), 1), ((1, -1), 1), ((1, 0), 1), ((1, 1), 1), ((0, 2), 1), ((2, 0), 1)]
+dither_Sierra = [32, ((0, 1), 5), ((0, 2), 3), ((1, -2), 2), ((1, -1), 4), ((1, 0), 5), ((1, 1), 4),
                  ((1, 2), 2), ((2, -1), 2), ((2, 0), 3), ((2, 1), 2)]
-shifts_Two_Row_Sierra = [16, ((0, 1), 4), ((0, 2), 3), ((1, -2), 1), ((1, -1), 2), ((1, 0), 3),
+dither_Two_Row_Sierra = [16, ((0, 1), 4), ((0, 2), 3), ((1, -2), 1), ((1, -1), 2), ((1, 0), 3),
                          ((1, 1), 2), ((1, 2), 1)]
-shifts_Sierra_Lite = [4, ((0, 1), 2), ((1, -1), 1), ((1, 0), 1)]
+dither_Sierra_Lite = [4, ((0, 1), 2), ((1, -1), 1), ((1, 0), 1)]
 
-active_shifts = shifts_Atkinson
-divider = active_shifts[0]
+active_dither = dither_FS
+divider = active_dither[0]
 
-matrix = list()
 mc = Minecraft.create()
+matrix = list()
 player_pos = mc.player.getPos()
-for y in range(size[0]):
-    for x in range(size[1]):
-        red, green, blue = res_img_pixels[y, x]
-        block = nearest_palette_color(res_img_pixels[y, x])
-        color = tuple(block["color_rgb"])
+for y in range(size[1]):
+    for x in range(size[0]):
+        red, green, blue = res_img_pixels[x, y]
+        block = nearest_palette_color(res_img_pixels[x, y])
+        color = tuple(block[1]["color_rgb"])
         value_r, value_g, value_b = color
 
-        for sh in active_shifts[1:]:
-            if y + sh[0][0] in range(size[0]) and x + sh[0][1] in range(size[1]):
+        for sh in active_dither[1:]:
+            if y + sh[0][0] in range(size[1]) and x + sh[0][1] in range(size[0]):
+
                 color_r = round((red - value_r) * sh[1] / divider) + res_img_pixels[
-                    y + sh[0][0], x + sh[0][1]][0]
+                    x + sh[0][1], y + sh[0][0]][0]
                 color_g = round((green - value_g) * sh[1] / divider) + res_img_pixels[
-                    y + sh[0][0], x + sh[0][1]][1]
+                    x + sh[0][1], y + sh[0][0]][1]
                 color_b = round((blue - value_b) * sh[1] / divider) + res_img_pixels[
-                    y + sh[0][0], x + sh[0][1]][2]
+                    x + sh[0][1], y + sh[0][0]][2]
                 color_r = max(min(color_r, 255), 0)
                 color_g = max(min(color_g, 255), 0)
                 color_b = max(min(color_b, 255), 0)
-                res_img_pixels[y + sh[0][0], x + sh[0][1]] = (color_r, color_g, color_b)
+                res_img_pixels[x + sh[0][1], y + sh[0][0]] = (color_r, color_g, color_b)
 
-        res_img_pixels[y, x] = color
+        res_img_pixels[x, y] = color
+        matrix.append(
+            (block[0], round(player_pos.x) + (size[0] - x), 0, round(player_pos.z) + (size[1] - y),
+             *id_convert(active_blocks[block[0]]["id"])))
 
 matrix.sort(key=lambda s: s[0])
 for y in range(size[1] * size[0]):
     mc.setBlock(*matrix[y][1:])
     time.sleep(0.0023)
-res_img = res_img.resize((round(size[0] / scale), round(size[1] / scale)), Image.NEAREST)
-res_img.show()
